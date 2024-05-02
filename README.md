@@ -17,40 +17,41 @@
 -------
 <center>
 
-### Follow / Contact
+<details><summary><b>Follow/Contact</b></summary>
 
-</center>
-
-<p align="center">
-        <a href="https://www.youtube.com/@fredriklundell188?sub_confirmation=1">
-            <img alt="youtube subscribers" title="Subscribe to my YouTube 
-            channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/
-            UCD53j472MV-Vy9ysmrAIwmg?color=darkred&label=SUBSCRIBE&logo=video&
-            logoColor=white&style=for-the-badge&labelColor=maroon"/></a>
-        <a href="https://www.youtube.com/channel/UCD53j472MV-Vy9ysmrAIwmg">
-            <img alt="YouTube Channel Views" src="https://staging.shields.io/youtube/channel/views/UCD53j472MV-Vy9ysmrAIwmg?color=darkred&logo=eye&logoColor=white&style=for-the-badge&labelColor=maroon"/></a>
-        <br />      
-        <a href="https://github.com/freddans?tab=followers">
-            <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/freddans?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-        <a href="https://github.com/freddans?tab=repositories&sort=stargazers">
-            <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/freddans?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-        <br />
-        <a href="https://twitter.com/freddas1989" target="blank">
-            <img src="https://staging.shields.io/twitter/follow/freddans?style=for-the-badge&logo=twitter&label=FOLLOW%20FREDDANS" /></a>
+<a href="https://www.youtube.com/@fredriklundell188?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube 
+        channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/
+        UCD53j472MV-Vy9ysmrAIwmg?color=darkred&label=SUBSCRIBE&logo=video&
+        logoColor=white&style=for-the-badge&labelColor=maroon"/></a>
+<a href="https://www.youtube.com/channel/UCD53j472MV-Vy9ysmrAIwmg">
+    <img alt="YouTube Channel Views" src="https://staging.shields.io/youtube/
+channel/views/UCD53j472MV-Vy9ysmrAIwmg?color=darkred&logo=eye&logoColor=white&style=for-the-badge&labelColor=maroon"/></a>
+<br />      
+<a href="https://github.com/freddans?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/freddans?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/freddans?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/freddans?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<br />
+<a href="https://twitter.com/freddas1989" target="blank">
+    <img src="https://staging.shields.io/twitter/follow/freddans?style=for-the-badge&logo=twitter&label=FOLLOW%20FREDDANS" /></a>
 <a href="https://instagram.com/fredell123" target="blank">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-        <br />
-        <a href="https://www.linkedin.com/in/fredrik-lundell-00a10b13a/" target="blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="https://facebook.com/fredrik.lundell.754" target="blank">
-            <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-        <a href="mailto:fredrik_lundell@icloud.com" target="blank">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-###
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<br />
+<a href="https://www.linkedin.com/in/fredrik-lundell-00a10b13a/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://facebook.com/fredrik.lundell.754" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="mailto:fredrik_lundell@icloud.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 -------
+</details>
+</center>
+
+#
+
+
 <center>
 
 #### Languages and Tools 
@@ -89,14 +90,21 @@
 <center>
 
 ### Portfolio
-#### cigar database webapp
+
+<center>
+<details>
+<summary><b>cigar database webapp</b></summary>
+<img alt="thumbnail" width="216px" height="105px" src="https://github.com/freddans/freddans/blob/construction/thumbnails/cigar%20webapp/page.png?raw=true" />
+<img alt="thumbnail" width="216px" height="105px" src="https://github.com/freddans/freddans/blob/construction/thumbnails/cigar%20webapp/cigardb.png?raw=true" />
+</details>
+<br />
+<details>
+<summary><b>under construction</b></summary>
+<img alt="thumbnail" width="216px" height="105px" src="https://github.com/freddans/freddans/blob/construction/thumbnails/cigar%20webapp/page.png?raw=true" />
+<img alt="thumbnail" width="216px" height="105px" src="https://github.com/freddans/freddans/blob/construction/thumbnails/cigar%20webapp/cigardb.png?raw=true" />
+<img alt="thumbnail" width="216px" height="105px" src="https://github.com/freddans/freddans/blob/construction/thumbnails/cigar%20webapp/page.png?raw=true" />
+</details>
 </center>
-
-<p align="left">
-<img alt="thumbnail" width="100px" height="100px" src="thumbnails/cigar%20webapp/page.png" />
-</p>
-
-Under Construction
 
 
 #
