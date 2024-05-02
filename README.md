@@ -99,13 +99,12 @@
 
 #
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/freddan"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fred" /></a></p>
-<details>
+<a href="https://www.buymeacoffee.com/freddan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fred" /></a></p>
+</p>
+<details align="center">
 <summary>
 Freddans Coding Journey
 </summary>
 under construction
 </details>
 <img alt="buy me a coffee" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
