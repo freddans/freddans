@@ -40,9 +40,9 @@
 <a href="https://instagram.com/fredell123" target="blank">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
         <br />
-        <a href="https://linkedin.com/" target="blank">
+        <a href="https://www.linkedin.com/in/fredrik-lundell-00a10b13a/" target="blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="https://facebook.com/" target="blank">
+        <a href="https://facebook.com/fredrik.lundell.754" target="blank">
             <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
         <a href="mailto:fredrik_lundell@icloud.com" target="blank">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
