@@ -91,13 +91,17 @@ channel/views/UCD53j472MV-Vy9ysmrAIwmg?color=darkred&logo=eye&logoColor=white&st
 
 ### Portfolio
 
-<center>
+
 <details>
 <summary><b>cigar database webapp</b></summary>
+<br />
 <img alt="thumbnail" width="216px" height="105px" src="https://github.com/freddans/freddans/blob/construction/thumbnails/cigar%20webapp/page.png?raw=true" />
 <img alt="thumbnail" width="216px" height="105px" src="https://github.com/freddans/freddans/blob/construction/thumbnails/cigar%20webapp/cigardb.png?raw=true" />
+
+-------
 </details>
 <br />
+
 <details>
 <summary><b>under construction</b></summary>
 <img alt="thumbnail" width="216px" height="105px" src="https://github.com/freddans/freddans/blob/construction/thumbnails/cigar%20webapp/page.png?raw=true" />
@@ -124,7 +128,6 @@ channel/views/UCD53j472MV-Vy9ysmrAIwmg?color=darkred&logo=eye&logoColor=white&st
 
 -------
 <center>
-
 <a href="https://www.buymeacoffee.com/freddan"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fred" /></a></p>
 <details>
 <summary>
@@ -132,6 +135,5 @@ Freddans Coding Journey
 </summary>
 under construction
 </details>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-
+<img alt="buy me a coffee" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </center>
