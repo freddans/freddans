@@ -1,8 +1,8 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<p align="center">
-<img align="left" width="10px" style="border-radius: 10px" src="https://placehold.co/15x15/c5f015/c5f015.png" />**`Java Developer`** <img width="10px" style="border-radius: 10px" src="https://placehold.co/15x15/c5f015/c5f015.png" />**`Student`** <img width="10px" style="border-radius: 10px" src="https://placehold.co/15x15/c5f015/c5f015.png" />**`Looking for work/internship`**
-</p>
+
+<img width="10px" style="border-radius: 10px" src="https://placehold.co/15x15/c5f015/c5f015.png" />**`Java Developer`** <img width="10px" style="border-radius: 10px" src="https://placehold.co/15x15/c5f015/c5f015.png" />**`Student`** <img width="10px" style="border-radius: 10px" src="https://placehold.co/15x15/c5f015/c5f015.png" />**`Looking for work/internship`**
+
 
 <center>
 
