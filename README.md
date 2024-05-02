@@ -77,7 +77,7 @@
 <img alt="thumbnail" width="216px" height="105px" src="https://github.com/freddans/freddans/blob/construction/thumbnails/cigar%20webapp/page.png?raw=true" />
 <img alt="thumbnail" width="216px" height="105px" src="https://github.com/freddans/freddans/blob/construction/thumbnails/cigar%20webapp/cigardb.png?raw=true" />
 
--------
+#
 </details>
 <br />
 
@@ -89,17 +89,13 @@
 </details>
 </center>
 
-
 #
 
-<center>
-
-### Stats
+<p align="center"><b>Statistics</b>
 
 <img src="https://github-readme-stats.vercel.app/api?username=freddans&show_icons=true&theme=codeSTACKr"></img>
 <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=freddans&show_icons=true&theme=codeSTACKr"></img>
-
-</center>
+</p>
 
 #
 
