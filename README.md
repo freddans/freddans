@@ -16,7 +16,7 @@
 #
 
 
-<div style="text-align: center;">
+<div style="align: center;">
 
 <details><summary><b>Follow/Contact</b></summary>
 <a href="https://github.com/freddans?tab=followers">
