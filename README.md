@@ -94,7 +94,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=freddans&show_icons=true&theme=codeSTACKr" />
-<img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=freddans&show_icons=true&theme=codeSTACKr" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=freddans&show_icons=true&theme=codeSTACKr" />
 </p>
 
 #
