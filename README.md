@@ -16,7 +16,7 @@
 #
 
 
-<center>
+<p align="center">
 
 <details><summary><b>Follow/Contact</b></summary>
 <a href="https://github.com/freddans?tab=followers">
@@ -38,7 +38,7 @@
 
 #
 </details>
-</center>
+</p>
 
 
 
@@ -108,7 +108,7 @@
 
 <center>
 
-### Stats
+Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=freddans&show_icons=true&theme=codeSTACKr"></img>
 <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=freddans&show_icons=true&theme=codeSTACKr"></img>
@@ -117,7 +117,6 @@
 
 #
 
--------
 <center>
 <a href="https://www.buymeacoffee.com/freddan"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fred" /></a></p>
 <details>
