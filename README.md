@@ -3,7 +3,8 @@
 <img width="10px" style="border-radius: 10px" src="https://placehold.co/15x15/c5f015/c5f015.png" />**`Java Developer`** <img width="10px" style="border-radius: 10px" src="https://placehold.co/15x15/c5f015/c5f015.png" />**`Student`** <img width="10px" style="border-radius: 10px" src="https://placehold.co/15x15/c5f015/c5f015.png" />**`Looking for work/internship`**
 </center>
 
--------
+#
+
 <center>
 
 ### About me
