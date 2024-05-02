@@ -54,8 +54,8 @@
 
 
 
-<img alt="Azure" width="60px" style="padding-right:10px; padding-bottom:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img alt="Docker" width="70" height="50" style="padding-right:30px;" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
+<img alt="Azure" width="50px" style="padding-right:10px; padding-bottom:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img alt="Docker" width="70px"  style="padding-right:30px;" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
 <img alt="Git" width=120px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
 <img alt="Java" width="120px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
 <img alt="MySQL" width="120px" height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
