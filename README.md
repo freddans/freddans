@@ -59,8 +59,7 @@
 
 #
 
-<details align="center"><b>Portfolio</b>
-
+<details align="center"><summary><b>Portfolio</b></summary>
 
 <details align="center">
 <summary><b>cigar database webapp</b></summary>
@@ -79,6 +78,9 @@
 
 #
 </details>
+
+<br />
+<br />
 
 <details align="center">
 <summary><b>under construction</b></summary>
