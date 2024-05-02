@@ -99,7 +99,7 @@
 
 #
 
-<center>
+<p align="center">
 <a href="https://www.buymeacoffee.com/freddan"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fred" /></a></p>
 <details>
 <summary>
@@ -108,4 +108,4 @@ Freddans Coding Journey
 under construction
 </details>
 <img alt="buy me a coffee" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</center>
+</p>
