@@ -2,18 +2,14 @@
 
 <img width="10px" style="border-radius: 10px" src="https://placehold.co/15x15/c5f015/c5f015.png" />**`Java Developer`** <img width="10px" style="border-radius: 10px" src="https://placehold.co/15x15/c5f015/c5f015.png" />**`Student`** <img width="10px" style="border-radius: 10px" src="https://placehold.co/15x15/c5f015/c5f015.png" />**`Looking for work/internship`**
 
-<center>
 
 ### About me
-
-
 <p>I'm Fredrik, a Java developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Gothenburg, Sweden</b>. </p>
-</center>
+
 
 #
 
-
-<details align="center"><summary><b>Follow/Contact</b></summary>
+[//]: # (<details align="center"><summary><b>Follow/Contact</b></summary>)
 <a href="https://github.com/freddans?tab=followers">
 <p align="center">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/freddans?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
@@ -33,8 +29,12 @@
     <img alt="mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+[//]: # ()
+[//]: # (#)
+
+[//]: # (</details>)
+
 #
-</details>
 
 <br />
 <br />
