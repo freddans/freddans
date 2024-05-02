@@ -107,4 +107,6 @@ Freddans Coding Journey
 </summary>
 under construction
 </details>
+<p align="center">
 <img alt="waves" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
