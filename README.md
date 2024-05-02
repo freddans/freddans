@@ -7,8 +7,6 @@
 <p>I'm Fredrik, a Java developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Gothenburg, Sweden</b>. </p>
 
 
-#
-
 [//]: # (<details align="center"><summary><b>Follow/Contact</b></summary>)
 <a href="https://github.com/freddans?tab=followers">
 <p align="center">
