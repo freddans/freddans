@@ -18,7 +18,7 @@
 
 <center>
 
-<details><summary><b>Follow/Contact</b></summary>
+<details align="center"><summary><b>Follow/Contact</b></summary>
 <a href="https://github.com/freddans?tab=followers">
 <p align="center">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/freddans?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
