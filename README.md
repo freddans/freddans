@@ -22,7 +22,7 @@
 <a href="https://github.com/freddans?tab=followers">
 <p align="center">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/freddans?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+
 <a href="https://github.com/freddans?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/freddans?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 <br />
@@ -37,6 +37,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="mailto:fredrik_lundell@icloud.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 #
 </details>
