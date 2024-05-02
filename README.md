@@ -13,8 +13,6 @@
 #
 
 
-<center>
-
 <details align="center"><summary><b>Follow/Contact</b></summary>
 <a href="https://github.com/freddans?tab=followers">
 <p align="center">
@@ -38,23 +36,13 @@
 
 #
 </details>
-</center>
-
 
 <br />
 <br />
 
-<center>
-
-<p align="center"><b>Languages and Tools</b></p> 
-
-</center>
-
+<p align="center"><b>Languages and Tools</b></p>
 
 <p align="center">
-
-
-
 <img alt="Azure" width="60px" style="padding-right:10px; padding-bottom:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img alt="Docker" width="70px"  style="padding-right:30px;" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
 <img alt="Git" width=120px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
