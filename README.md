@@ -16,7 +16,7 @@
 #
 
 
-<p align="center">
+<div style="text-align: center;">
 
 <details><summary><b>Follow/Contact</b></summary>
 <a href="https://github.com/freddans?tab=followers">
@@ -38,7 +38,7 @@
 
 #
 </details>
-</p>
+</div>
 
 
 
@@ -77,7 +77,6 @@
 
 #
 
--------
 <center>
 
 ### Portfolio
@@ -106,7 +105,7 @@
 
 <center>
 
-### <center>Stats</center>
+### Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=freddans&show_icons=true&theme=codeSTACKr"></img>
 <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=freddans&show_icons=true&theme=codeSTACKr"></img>
