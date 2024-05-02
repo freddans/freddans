@@ -16,8 +16,7 @@
 <details align="center"><summary><b>Follow/Contact</b></summary>
 <a href="https://github.com/freddans?tab=followers">
 <p align="center">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/freddans?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/freddans?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 <a href="https://github.com/freddans?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/freddans?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 <br />
@@ -94,8 +93,9 @@
 <p align="center"><b>Statistics</b>
 
 <img src="https://github-readme-stats.vercel.app/api?username=freddans&show_icons=true&theme=codeSTACKr" /></p>
-<img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=freddans&show_icons=true&theme=codeSTACKr"></img>
-</p>
+<p align="center">
+<img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=freddans&show_icons=true&theme=codeSTACKr" /></p>
+
 
 #
 <p align="center">
