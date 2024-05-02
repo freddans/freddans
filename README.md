@@ -65,8 +65,6 @@
 
 #
 
-<center>
-
 <p align="center"><b>Portfolio</b></p>
 
 
@@ -86,7 +84,6 @@
 <img alt="thumbnail" width="216px" height="105px" src="https://github.com/freddans/freddans/blob/construction/thumbnails/cigar%20webapp/cigardb.png?raw=true" />
 <img alt="thumbnail" width="216px" height="105px" src="https://github.com/freddans/freddans/blob/construction/thumbnails/cigar%20webapp/page.png?raw=true" />
 </details>
-</center>
 
 #
 
