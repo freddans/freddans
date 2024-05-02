@@ -50,7 +50,7 @@
 </center>
 
 
-<center>
+<p align="center">
 
 
 
@@ -73,7 +73,7 @@
 <img alt="Jira" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jira/jira-original.svg" />
 <img alt="Obsidian" width="30px" style="padding-right:10px;" src="https://obsidian.md/favicon.ico" />
 <img alt="photoshop" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" />
-</center>
+</p>
 
 #
 
