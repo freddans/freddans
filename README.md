@@ -44,11 +44,12 @@
 </center>
 
 
-
+<br />
+<br />
 
 <center>
 
-#### Languages and Tools 
+<p align="center"><b>Languages and Tools</b></p> 
 
 </center>
 
