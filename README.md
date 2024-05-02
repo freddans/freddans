@@ -93,8 +93,8 @@
 
 <p align="center"><b>Statistics</b>
 
-<img src="https://github-readme-stats.vercel.app/api?username=freddans&show_icons=true&theme=codeSTACKr"></img>
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=freddans&show_icons=true&theme=codeSTACKr"></img>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=freddans&show_icons=true&theme=codeSTACKr"></img>
+<img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=freddans&show_icons=true&theme=codeSTACKr"></img>
 </p>
 
 #
