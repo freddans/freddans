@@ -14,20 +14,10 @@
 
 #
 
--------
+
 <center>
 
 <details><summary><b>Follow/Contact</b></summary>
-
-<a href="https://www.youtube.com/@fredriklundell188?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube 
-        channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/
-        UCD53j472MV-Vy9ysmrAIwmg?color=darkred&label=SUBSCRIBE&logo=video&
-        logoColor=white&style=for-the-badge&labelColor=maroon"/></a>
-<a href="https://www.youtube.com/channel/UCD53j472MV-Vy9ysmrAIwmg">
-    <img alt="YouTube Channel Views" src="https://staging.shields.io/youtube/
-channel/views/UCD53j472MV-Vy9ysmrAIwmg?color=darkred&logo=eye&logoColor=white&style=for-the-badge&labelColor=maroon"/></a>
-<br />      
 <a href="https://github.com/freddans?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/freddans?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <a href="https://github.com/freddans?tab=repositories&sort=stargazers">
