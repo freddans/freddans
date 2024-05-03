@@ -60,6 +60,7 @@
 <br />
 <details align="center">
 <summary><b>cigar database webapp</b></summary>
+<p>🚧 Under Construction 🚧</p>
 <br />
 <img alt="thumbnail" width="216px" height="105px" src="https://github.com/freddans/freddans/blob/construction/thumbnails/cigar%20webapp/page.png?raw=true" />
 <img alt="thumbnail" width="216px" height="105px" src="https://github.com/freddans/freddans/blob/construction/thumbnails/cigar%20webapp/cigardb.png?raw=true" />
@@ -72,7 +73,7 @@
 
 
 <details align="center">
-<summary><b>under construction</b></summary>
+<summary><b>Filler</b></summary>
 <img alt="thumbnail" width="216px" height="105px" src="https://github.com/freddans/freddans/blob/construction/thumbnails/cigar%20webapp/page.png?raw=true" />
 <img alt="thumbnail" width="216px" height="105px" src="https://github.com/freddans/freddans/blob/construction/thumbnails/cigar%20webapp/cigardb.png?raw=true" />
 <img alt="thumbnail" width="216px" height="105px" src="https://github.com/freddans/freddans/blob/construction/thumbnails/cigar%20webapp/page.png?raw=true" />
