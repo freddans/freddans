@@ -20,7 +20,7 @@
 <a href="https://twitter.com/freddas1989" target="blank">
     <img alt="twitter" src="https://staging.shields.io/twitter/follow/freddans?style=for-the-badge&logo=twitter&label=FOLLOW%20FREDDANS" /></a>
 
-<a href="https://www.linkedin.com/in/fredrik-lundell-00a10b13a/" target="blank">
+<a href="https://www.linkedin.com/in/freddans/" target="blank">
     <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:fredrik_lundell@icloud.com" target="blank">
     <img alt="mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
